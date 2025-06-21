@@ -44,6 +44,25 @@ I was inspired to build this not only to learn ML hands-on, but because I strong
   - May not perform well on current 2024 news patterns  
   - Doesn’t capture deep semantic meaning
 
+    | Metric     | Validation Score |
+|------------|------------------|
+| Accuracy   | 98%              |
+| Precision  | 97.5%            |
+| Recall     | 98.2%            |
+| F1-Score   | 97.8%            |
+
+
+---
+
+## ⚙️Usage
+
+
+## 🚀 How to Run
+1. Clone the repo  
+2. Open `FakeNewsDetection.ipynb` in Google Colab  
+3. Upload `fake.csv` and `true.csv` from your Kaggle dataset  
+4. Run all cells to train the model and get prediction on new input
+
 ---
 
 ## 🚀 What’s Next?
@@ -63,6 +82,7 @@ Fake news is often used as a **psychological weapon**, spreading chaos, confusio
 
 That’s why I strongly believe this project aligns with the **objectives of DRDO CAIR and DEAL**.
 
+---
 
 ## 👩‍💻 Developed By
 
