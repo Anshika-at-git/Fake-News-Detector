@@ -1,37 +1,75 @@
-"Fighting fake news is not just a technical challenge — it's a national responsibility."
+# 🇮🇳 Fake News & Misinformation Detection Using Machine Learning
 
-A model that detects fake News and misinformation using the Machine Learning
+**"Fighting fake news is not just a technical challenge — it's a national responsibility."**
 
-Overview
+Hi, I’m **Anshika Singh**, a 4th-semester B.Tech student in CSE (AI & ML), and I built this project out of my deep interest in **Machine Learning**, **NLP**, and most importantly — **national integrity**.
 
-This projects help in building a machine learning model that detects fake news or any misinformation spreading in the country. 
-Here the user simply has to insert the headline or a snippet of any article and the model would predict if the news is real or fake.
-In the age of information overload, it's vital to detect and filter misinformation for  national security and psychological warfare, as they are deeply affected by propaganda and fake content.
+In an age where false information spreads faster than the truth, the need to detect misinformation isn’t just academic — it’s vital to the **mental, digital, and national security** of our country. This project is my small contribution toward that bigger goal.
 
-Tech Stack 
-1. Language : Python
-2. Platform : Google Colab
-3. Libraries :
-              pandas - For data collection and manipulation,
-              scikit-learn - For using machine learning models,
-              TfidfVectorizer - For conversion of text into numbers,
-              LogisticRegression - For classification
+---
 
-Dataset
+## 📌 Project Overview
 
-fake.csv and true.csv
-Source: Kaggle Fake News Dataset
-Due to Github's 25 MB file upload limit, I couldn't upload the dataset.
-Dataset was uploaded in Google Colab and then used to train and test data
+This machine learning model helps detect **fake news and misinformation** from article headlines or snippets. It classifies whether a piece of news is likely to be *real* or *fake*, and is especially relevant in today’s context of information overload, digital propaganda, and psychological manipulation.
 
-Model Details
+I was inspired to build this not only to learn ML hands-on, but because I strongly believe that **technological solutions can play a major role in safeguarding national awareness** — something I hope to pursue more deeply through an internship at **DRDO**.
 
-Achieved 98% accuracy on the data.
-Used the news headlines of the year 2016-17, it may not predict latest news accurately, for latest news prediction BERT and XGBoost is used 
-(I don't have a command on these yet but I would be making a model using both of the technologies)
+---
 
-✍️ Developed By
+## 🧰 Tech Stack
 
-Anshika Singh
-4th Semester,
-B.Tech CSE (AIML)
+- **Language**: Python  
+- **Platform**: Google Colab  
+- **Libraries Used**:
+  - `pandas` for data manipulation  
+  - `TfidfVectorizer` for text feature extraction  
+  - `scikit-learn` for ML pipeline  
+  - `LogisticRegression` for classification
+
+---
+
+## 📁 Dataset Details
+
+- **Source**: Kaggle Fake and True News Dataset  
+- Consists of `fake.csv` and `true.csv`, mostly news from 2016–2017  
+- Dataset not uploaded here due to GitHub’s 25MB limit. It was loaded in Colab for training.
+
+---
+
+## 📊 Model Performance
+
+- Achieved **~98% accuracy** on validation data  
+- Trained using Logistic Regression with TF-IDF vectors  
+- **Limitations**:
+  - May not perform well on current 2024 news patterns  
+  - Doesn’t capture deep semantic meaning
+
+---
+
+## 🚀 What’s Next?
+
+Although this version doesn’t use BERT or XGBoost yet, I plan to implement both in an upgraded model soon. I’m currently learning these technologies and will release an advanced version once I gain confidence.
+
+This isn’t just a one-time project for me — it’s a stepping stone to a career where I hope to **merge AI with national service**.
+
+---
+
+## 🧠 Relevance to National Defense
+
+Fake news is often used as a **psychological weapon**, spreading chaos, confusion, or hate. A tool like this could support defense organizations by:
+- Monitoring narrative threats  
+- Identifying disinformation campaigns  
+- Aiding cyber-intelligence systems  
+
+That’s why I strongly believe this project aligns with the **objectives of DRDO CAIR and DEAL**.
+
+
+## 👩‍💻 Developed By
+
+**Anshika Singh**  
+4th Semester, B.Tech CSE (AI & ML)  
+Oriental Institute of Science & Technology, RGPV University  
+LinkedIn: www.linkedin.com/in/
+anshika-singh-4ab153331
+
+*Built with purpose, passion, and patriotism.* 🇮🇳
