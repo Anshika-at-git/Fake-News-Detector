@@ -54,9 +54,6 @@ I was inspired to build this not only to learn ML hands-on, but because I strong
 
 ---
 
-## ⚙️Usage
-
-
 ## 🚀 How to Run
 1. Clone the repo  
 2. Open `FakeNewsDetection.ipynb` in Google Colab  
