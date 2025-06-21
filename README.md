@@ -12,10 +12,10 @@ Tech Stack
 1. Language : Python
 2. Platform : Google Colab
 3. Libraries :
-              * pandas - For data collection and manipulation
-              * scikit-learn - For using machine learning models
-              * TfidfVectorizer - For conversion of text into numbers
-              * LogisticRegression - For classification
+              pandas - For data collection and manipulation,
+              scikit-learn - For using machine learning models,
+              TfidfVectorizer - For conversion of text into numbers,
+              LogisticRegression - For classification
 
 Dataset
 
