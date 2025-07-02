@@ -1,4 +1,4 @@
-# 🇮🇳 Fake News & Misinformation Detection Using Machine Learning
+# Fake News & Misinformation Detection Using Machine Learning
 
 **"Fighting fake news is not just a technical challenge — it's a national responsibility."**
 
