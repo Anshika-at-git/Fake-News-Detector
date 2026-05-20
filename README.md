@@ -41,7 +41,7 @@ I was inspired to build this not only to learn ML hands-on, but because I strong
 - Achieved **~98% accuracy** on validation data  
 - Trained using Logistic Regression with TF-IDF vectors  
 - **Limitations**:
-  - May not perform well on current 2024 news patterns  
+  - May not perform well on current 2026 news patterns  
   - Doesn’t capture deep semantic meaning
 
     | Metric     | Validation Score |
@@ -70,23 +70,19 @@ This isn’t just a one-time project for me — it’s a stepping stone to a car
 
 ---
 
-## 🧠 Relevance to National Defense
+## 🧠 Relevance to Defense
 
 Fake news is often used as a **psychological weapon**, spreading chaos, confusion, or hate. A tool like this could support defense organizations by:
 - Monitoring narrative threats  
 - Identifying disinformation campaigns  
-- Aiding cyber-intelligence systems  
-
-That’s why I strongly believe this project aligns with the **objectives of DRDO CAIR and DEAL**.
-
+- Aiding cyber-intelligence systems
+- 
 ---
 
 ## 👩‍💻 Developed By
 
 **Anshika Singh**  
-4th Semester, B.Tech CSE (AI & ML)  
+6th Semester, B.Tech CSE (AI & ML)  
 Oriental Institute of Science & Technology, RGPV University  
 LinkedIn: www.linkedin.com/in/
 anshika-singh-4ab153331
-
-*Built with purpose, passion, and patriotism.* 🇮🇳
