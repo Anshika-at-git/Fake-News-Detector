@@ -2,17 +2,15 @@
 
 **"Fighting fake news is not just a technical challenge — it's a national responsibility."**
 
-Hi, I’m **Anshika Singh**, a 4th-semester B.Tech student in CSE (AI & ML), and I built this project out of my deep interest in **Machine Learning**, **NLP**, and most importantly — **national integrity**.
+Hi, I’m **Anshika Singh**, a 6th-semester B.Tech student in CSE (AI & ML), and I built this project out of my deep interest in **Machine Learning** and **NLP**
 
-In an age where false information spreads faster than the truth, the need to detect misinformation isn’t just academic — it’s vital to the **mental, digital, and national security** of our country. This project is my small contribution toward that bigger goal.
+In an age where false information spreads faster than the truth, the need to detect misinformation isn’t just academic — it’s vital to the **mental, digital, and national security** of our country.
 
 ---
 
 ## 📌 Project Overview
 
 This machine learning model helps detect **fake news and misinformation** from article headlines or snippets. It classifies whether a piece of news is likely to be *real* or *fake*, and is especially relevant in today’s context of information overload, digital propaganda, and psychological manipulation.
-
-I was inspired to build this not only to learn ML hands-on, but because I strongly believe that **technological solutions can play a major role in safeguarding national awareness** — something I hope to pursue more deeply through an internship at **DRDO**.
 
 ---
 
