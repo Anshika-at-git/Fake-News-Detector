@@ -42,12 +42,11 @@ This machine learning model helps detect **fake news and misinformation** from a
   - May not perform well on current 2026 news patterns  
   - Doesn’t capture deep semantic meaning
 
-    | Metric     | Validation Score |
-|------------|------------------|
-| Accuracy   | 98%              |
-| Precision  | 97.5%            |
-| Recall     | 98.2%            |
-| F1-Score   | 97.8%            |
+Metric & Validation Score 
+Accuracy  = 98%              
+Precision = 97.5%            
+Recall    = 98.2%            
+F1-Score  = 97.8%            
 
 
 ---
