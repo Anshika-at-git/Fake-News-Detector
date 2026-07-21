@@ -43,6 +43,7 @@ This machine learning model helps detect **fake news and misinformation** from a
   - Doesn’t capture deep semantic meaning
 
 Metric & Validation Score 
+
 Accuracy  = 98%              
 Precision = 97.5%            
 Recall    = 98.2%            
@@ -63,23 +64,18 @@ F1-Score  = 97.8%
 
 Although this version doesn’t use BERT or XGBoost yet, I plan to implement both in an upgraded model soon. I’m currently learning these technologies and will release an advanced version once I gain confidence.
 
-This isn’t just a one-time project for me — it’s a stepping stone to a career where I hope to **merge AI with national service**.
-
 ---
 
-## 🧠 Relevance to Defense
+## 🧠 Relevance 
 
-Fake news is often used as a **psychological weapon**, spreading chaos, confusion, or hate. A tool like this could support defense organizations by:
+Fake news is often used as a **psychological weapon**, spreading chaos, confusion, or hate. A tool like this could support our society by:
 - Monitoring narrative threats  
 - Identifying disinformation campaigns  
-- Aiding cyber-intelligence systems
-- 
+- Aiding cyber-intelligence systems 
 ---
 
 ## 👩‍💻 Developed By
 
 **Anshika Singh**  
 6th Semester, B.Tech CSE (AI & ML)  
-Oriental Institute of Science & Technology, RGPV University  
-LinkedIn: www.linkedin.com/in/
-anshika-singh-4ab153331
+Oriental Institute of Science & Technology, RGPV University 
