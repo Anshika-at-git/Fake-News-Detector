@@ -78,4 +78,4 @@ Fake news is often used as a **psychological weapon**, spreading chaos, confusio
 
 **Anshika Singh**  
 6th Semester, B.Tech CSE (AI & ML)  
-Oriental Institute of Science & Technology, RGPV University 
+Oriental Institute of Science & Technology, RGPV University
